@@ -7,3 +7,5 @@
 * [Challenge 3](2-JS-basics/challenge_3/index.html)
 
 * [Challenge 4](2-JS-basics/challenge_4/index.html)
+
+* [Challenge 5](2-JS-basics/challenge_5/index.html)
